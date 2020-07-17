@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on facial Recognition 
-- 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on giant company
+- 🌱 I’m currently learning Computer Vision
+- 👯 I’m looking to collaborate with AI Techie
 - 🤔 I’m looking for help with my startup
 - 💬 Ask me about motivation, inspiration and financial advisor
 - 📫 How to reach me on Linkedin: https://www.linkedin.com/in/nikhil-lohakare-29970a55/
