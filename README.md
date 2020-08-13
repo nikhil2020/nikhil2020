@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![alt-text](https://github.com/nikhil2020/Detection_of_parking_space_DL_Project/blob/master/AI.jpg)
-- 🔭 I’m currently working on Object Detection
-- 🌱 I’m currently learning Computer Vision
+
+- 🌱 I’m currently working on TensorflowJS framework to integrate AI with NodeJs and Angular.
 - 👯 I’m looking to collaborate with AI Techie
 - 🤔 I’m looking for help with my startup
 - 💬 Ask me about AI,Data Science,Machine Learning
