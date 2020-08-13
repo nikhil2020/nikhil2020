@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![alt-text](https://github.com/nikhil2020/Detection_of_parking_space_DL_Project/blob/master/AI.jpg)
-- ** Data is the origin and solution to your problem. **
+** Data is the origin and solution to your problem. **
 - 🌱 I’m currently working on TensorflowJS framework to integrate AI with NodeJs and Angular.
 - 👯 I’m looking to collaborate with AI Techie
 - 🤔 I’m looking for help with my startup
