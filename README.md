@@ -15,17 +15,3 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<html>
-  <head>
-  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
- 
-  </head>
-<body>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="nikhil-lohakare- 29970a55">
-  <a class="LI-simple-link" href='https://in.linkedin.com/in/nikhil-lohakare-29970a55?trk=profile-badge'>Nikhil Lohakare</a>
-</div>
-</body>
-
-</html>
