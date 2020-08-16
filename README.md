@@ -21,15 +21,8 @@
 ## 🚀 My Projects:
 
 <p align="center">
-<a href="https://github.com/nikhil2020/Clrd.">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhil2020&repo=Clrd.&theme=gruvbox" /></a>
-<a href="https://github.com/nikhil2020/Codility_Tasks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhil2020&repo=Codility_Tasks&theme=gruvbox" /></a>
-<a href="https://github.com/nikhil2020/Feedback_Management_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhil2020&repo=Feedback_Management_System&theme=gruvbox" /></a>
-<a href="https://github.com/nikhil2020/SONGS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhil2020&repo=SONGS&theme=gruvbox" /></a>
-
+<a href="https://nikhil2020.github.io/AppleWebsite/">
+  <img src="https://github.com/nikhil2020/AppleWebsite/blob/master/ipad_hero.png/></a>
 
 <!--
 **nikhil2020/nikhil2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
