@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=nikhil2020&count_private=true&show_icons=true&theme=gruvbox">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhil2020&count_private=true&show_icons=true&theme=vue-dark" /></a>
-<a href="https://github.com/nikhil2020/">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil2020&layout=compact&theme=vue-dark">
   <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil2020&layout=compact&theme=vue-dark" /></a>
   
 <p>&nbsp;</p>
