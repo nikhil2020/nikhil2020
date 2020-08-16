@@ -7,14 +7,8 @@
 - 💬 Ask me about AI,Data Science,Machine Learning
 - 📫 You can reach me on Linkedin: https://www.linkedin.com/in/nikhil-lohakare-29970a55/
 
-<!--
-**nikhil2020/nikhil2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>&nbsp;</p>
 
-Here are some ideas to get you started:
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 ## 📈 My Stats:
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=nikhil2020&count_private=true&show_icons=true&theme=gruvbox">
@@ -36,3 +30,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/nikhil2020/SONGS">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhil2020&repo=SONGS&theme=gruvbox" /></a>
 
+
+<!--
+**nikhil2020/nikhil2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
