@@ -27,7 +27,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+
 
 <p>&nbsp;</p>
 <p align="center">
@@ -52,7 +52,7 @@
 ## 🚀 My Projects:
 
 <a href="https://github.com/nikhil2020/Data_Science_Project/blob/master/DSCapstoneProject.ipynb">
-  <img src="https://github.com/nikhil2020/Data_Science_Project/blob/master/Tableau_Data_Viz.png"/></a>
+  <img src="https://github.com/nikhil2020/Data_Science_Project/blob/master/Tableau_Data_Viz.png"/>Data Science Project</a>
 
 <!--
 **nikhil2020/nikhil2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
