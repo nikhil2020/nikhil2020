@@ -18,7 +18,32 @@
   
 <p>&nbsp;</p>
 
+## 👨💻 My Languages/Tools:
+<div>
+<p align="center">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<p>&nbsp;</p>
+<p align="center">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjrgww-846ce429-3b0d-4ad8-bf6d-ac52dfe48201.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjE3ZDVlYTAtNjIzZC00MGIxLTliMzEtMDI3YjkwNGE1ZjE1XC9kZGpyZ3d3LTg0NmNlNDI5LTNiMGQtNGFkOC1iZjZkLWFjNTJkZmU0ODIwMS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.ZkEnCXJtjhT0v0UEQF7_k0VfiSaIoZa-YlerQJG-CXw" alt="vscode" width="48" height="48"/> 
 
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/dccudp7-3a29ffd5-4e85-4123-88cc-4e948bedd7c1.png/v1/fill/w_512,h_512,strp/honeycomb_icon_pycharm_by_mauriliosm_dccudp7-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01MTIiLCJwYXRoIjoiXC9mXC8yMTdkNWVhMC02MjNkLTQwYjEtOWIzMS0wMjdiOTA0YTVmMTVcL2RjY3VkcDctM2EyOWZmZDUtNGU4NS00MTIzLTg4Y2MtNGU5NDhiZWRkN2MxLnBuZyIsIndpZHRoIjoiPD01MTIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.H8trsVIaTWNWAe_KnDtr1GN7tt8V8S3ANzAGW1MG2Bs" alt="PyCharm" width="48" height="48"/> 
+ 
+</div>
+
+<p>&nbsp;</p>
+
+## ☎️ Contact Me:
+<p align="center">
+<a href = "mailto:connectnikhil2020@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
+<a href = https://github.com/nikhil2020><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
+<a href = https://www.linkedin.com/in/nikhil-lohakare-29970a55/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
+<a href = https://www.facebook.com/nikhillohakare0/><img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'></a>
+<a href = https://www.instagram.com/nikhil_universal2020/><img src='https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png' alt='instagram' height='40'></a>
+
+<p>&nbsp;</p>
 
 ## 🚀 My Projects:
 
