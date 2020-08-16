@@ -25,15 +25,6 @@
 <p align="center">
 <a href="https://nikhil2020.github.io/AppleWebsite/">
   <img src="https://github.com/nikhil2020/AppleWebsite/blob/master/ipad_hero.png/"/></a>
-<p align="center">
-<a href="https://nikhil2020.github.io/AppleWebsite/">
-  <img src="https://github.com/nikhil2020/AppleWebsite/blob/master/ipad_hero.png/"/></a>
-<p align="center">
-<a href="https://nikhil2020.github.io/AppleWebsite/">
-  <img src="https://github.com/nikhil2020/AppleWebsite/blob/master/ipad_hero.png/"/></a>
-<p align="center">
-<a href="https://nikhil2020.github.io/AppleWebsite/">
-  <img src="https://github.com/nikhil2020/AppleWebsite/blob/master/ipad_hero.png/"/></a>
 
 <!--
 **nikhil2020/nikhil2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
