@@ -12,7 +12,7 @@
 ## 📈 My Stats:
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=nikhil2020&count_private=true&show_icons=true&theme=gruvbox">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhil2020&count_private=true&show_icons=true&theme=gruvbox" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhil2020&count_private=true&show_icons=true" /></a>
 <a href="https://github.com/nikhil2020/">
   <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil2020&layout=compact&theme=gruvbox" /></a>
   
@@ -25,6 +25,10 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+
 <p>&nbsp;</p>
 <p align="center">
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjrgww-846ce429-3b0d-4ad8-bf6d-ac52dfe48201.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjE3ZDVlYTAtNjIzZC00MGIxLTliMzEtMDI3YjkwNGE1ZjE1XC9kZGpyZ3d3LTg0NmNlNDI5LTNiMGQtNGFkOC1iZjZkLWFjNTJkZmU0ODIwMS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.ZkEnCXJtjhT0v0UEQF7_k0VfiSaIoZa-YlerQJG-CXw" alt="vscode" width="48" height="48"/> 
