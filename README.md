@@ -21,10 +21,10 @@
 ## 👨💻 My Languages/Tools:
 <div>
 <p align="center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javscript" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="40" height="40"/> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javscript" width="60" height="60"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" width="60" height="60"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="60" height="60"/> 
 </div>
 
 
